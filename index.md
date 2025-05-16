@@ -4,3 +4,6 @@
 ``` javascript
 var myNewVar = "Hello, world!";
 ```
+- [x] Turn on Computer
+- [x] Add image under h1 tag
+- [ ] Write my code block in svelte
